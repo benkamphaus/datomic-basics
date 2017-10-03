@@ -266,10 +266,10 @@ Find the datoms!
   :person/age    who-told-you-ive-been-alive-forever
   :person/degree :geography
   :person/children [{:person/name "Sam"
-                     :person/age 1}
+                     :person/age 2}
                     {:person/name "Oliver"
-                     :person/age 3}]}
- {:company/name "ThinkTopic"
+                     :person/age 4}]}
+ {:company/name "Cognitect"
   :company/employees ["bk"]}]
 ```
 

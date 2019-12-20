@@ -14,3 +14,8 @@ Topics:
     - query
     - entity
     - pull
+
+## TODO
+
+- deps.edn instead of project.clj
+- update (trivial) to Datomic + Clojure
